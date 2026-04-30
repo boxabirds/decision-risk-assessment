@@ -1,0 +1,15 @@
+# Local analysis outputs may contain private conversation snippets.
+out/
+
+# Python and uv local state.
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local environment and OS files.
+.env
+.env.*
+.DS_Store
+

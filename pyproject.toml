@@ -1,0 +1,11 @@
+[project]
+name = "decision-risk-assessment"
+version = "0.1.0"
+description = "Analyze operator-vs-agent decision risk in Claude JSONL coding conversations."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = []
+
